@@ -33,3 +33,49 @@ border-left: 1px solid gray;
 nav:first child{
 	border-left: 0 none;
 }
+
+#main-0container {
+	padding-top: 130px;
+}
+
+.main-section {
+	float: left;
+	width: 100%;
+	max-width: 650px;
+	padding: 30px;
+	margin: 0 0 40px;
+	background: #fff;
+	border: 1px solid #ddd
+}
+
+.auth-image {
+	float: left;
+	width: 200px;
+	height: auto;
+	margin-right: 25px;
+}
+
+.sidebar {
+	float: right;
+	width: 100px;
+	max-width: 270px;
+	padding: 30px;
+	margin-bottom: 20px;
+	background: red;
+	border: 1px solid red;
+}
+
+h3, .sidebar h2 {
+	padding-bottom: 20px;
+	margin-bottom: 15px;
+	line-height: 22px;
+	border-bottom: 2px solid red;
+}
+
+.social {
+	width: 62px;
+	height: 62px;
+	margin-top: 8px;
+	margin-right: 5px;
+}
+
