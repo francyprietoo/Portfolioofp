@@ -55,8 +55,23 @@ h3 {
     margin: 0 0 30px;
     overflow: auto;
     color: white;
-    background: red;
+    background: pink;
     border-bottom: 2px solid #ccc;
+}
+
+#nameArt{
+	float: left;
+	width: 250px;
+	height: 90px;
+	font-family: Georgia, 'Times New Roman', Times, serif;
+	font-size: 30px;
+	font-weight: 700px;
+	line-height: 90px;
+	color: pink;
+	text-align: center;
+	text-decoration: none;
+	background: blue;
+
 }
 
 .container a {
@@ -115,7 +130,7 @@ h3, .sidebar h2 {
     padding-bottom: 20px;
     margin-bottom: 15px;
     line-height: 22px;
-    border-bottom: 2px solid  orange;
+    border-bottom: 2px solid purple;
 }
 
 .social {
